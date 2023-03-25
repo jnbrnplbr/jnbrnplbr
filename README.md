@@ -1,3 +1,5 @@
+> "Coding languages may change, tools may evolve, but the versatility of a tech generalist remains constant - adapting, learning, and integrating diverse technologies to create innovative solutions."
+
 [![Brye's GitHub stats](https://gh-stats-card.cyclic.app/api/jnbrnplbr)](https://github.com/jnbrnplbr)
 
 ## &#x1f4c8; GitHub Stats
@@ -10,7 +12,7 @@
 </a>
 
 
-"Coding languages may change, tools may evolve, but the versatility of a tech generalist remains constant - adapting, learning, and integrating diverse technologies to create innovative solutions."
+
 <!--
 **jnbrnplbr/jnbrnplbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
