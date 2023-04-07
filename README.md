@@ -1,7 +1,5 @@
 > "Coding languages may change, tools may evolve, but the versatility of a tech generalist remains constant - adapting, learning, and integrating diverse technologies to create innovative solutions."
 
-[![Brye's GitHub stats](https://gh-stats-card.cyclic.app/api/jnbrnplbr)](https://github.com/jnbrnplbr)
-
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jnbrnplbr&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
