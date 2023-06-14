@@ -8,10 +8,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jnbrnplbr&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
-
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
+<div>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jnbrnplbr&show_icons=true" />
-
+</div>
 
 
 ## 🏆 GitHub Trophies
