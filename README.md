@@ -1,9 +1,5 @@
 > "Coding languages may change, tools may evolve, but the versatility of a tech generalist remains constant - adapting, learning, and integrating diverse technologies to create innovative solutions."
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jnbrnplbr&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
@@ -17,6 +13,11 @@
   <summary><b>:zap: GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jnbrnplbr&show_icons=true" />
 </details>
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jnbrnplbr&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!-- GitHub section: END -->
